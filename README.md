@@ -1,2 +1,3 @@
 # int_test2
-more testing...
+Here is the newest release v1.0! (main==production)
+update to README
